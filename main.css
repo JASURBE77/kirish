@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 100%;
+    width: 85%;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    border-bottom: 2px solid #DEDBDB;
+    background-color: white;
+}
+
+.ikta {
+    display: flex;
+    margin-left: 1221px;
+    margin-top: -40px;
+}
+
+.logoms {
+    margin-left: 171px;
+    margin-top: 20px;
+}
+
+.solo {
+    color: #424242;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    margin-left: 1300px;
+    margin-top: -40px;
+    display: flex;
+}
+
+.kirish {
+    width: 650px;
+    height: 786px;
+    margin-top: 186px;
+    margin-left: 395px;
+    border: 2px solid #DEDBDB;
+    border-radius: 40px;
+    background-color: white;
+}
+
+body {
+    background-color: #75757530;
+}
+
+.mors {
+    margin-top: 66px;
+    margin-left: 66px;
+}
+
+.off {
+    font-size: 24px;
+    font-weight: 700;
+    color: #F0400F;
+    margin-top: -35px;
+    margin-left: 365px;
+}
+
+.chiqish {
+    margin-left: 555px;
+    display: flex;
+    margin-top: -25px;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 130px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #0E0D5D;
+}
+
+.otabola {
+    background-color: #75757530;
+    display: flex;
+    gap: 82px;
+    width: 533px;
+    height: 70px;
+    margin-top: 53px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+
+.oquv {
+    color: #757575;
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    transition: 300ms ease;
+}
+
+.oquv:active {
+    background-color: white;
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 300ms ease;
+    color: black;
+}
+
+.oquv:hover {
+    background-color: white;
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 300ms ease;
+    color: black;
+}
+
+.ona:active {
+    background-color: white;
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 300ms ease;
+    color: black;
+}
+
+.ona:hover {
+    background-color: white;
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 300ms ease;
+    color: black;
+}
+
+.ona {
+    color: #757575;
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    transition: 300ms ease;
+}
+
+.more {
+    width: 533px;
+    height: 70px;
+    border-radius: 15px;
+    margin-left: 60px;
+    margin-top: 39px;
+    background-color: #75757530;
+    text-align: center;
+    border: 2px solid #DEDBDB;
+}
+
+input::placeholder {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.pass {
+    border: 2px solid #DEDBDB;
+    width: 533px;
+    height: 70px;
+    border-radius: 15px;
+    margin-left: 60px;
+    margin-top: 39px;
+    background-color: #75757530;
+    text-align: center;
+}
+
+.qr {
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000000A3;
+    display: flex;
+    margin-top: 18px;
+    margin-left: 213px;
+}
+
+button {
+    width: 202px;
+    height: 67px;
+    margin-top: 30px;
+    margin-left: 400px;
+    border-radius: 20px;
+    background-color: #F69E86;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    border: 2px solid white;
+    color: white;
+}
+button:hover{
+    background-color: #F0400F;
+    color: black;
+}
